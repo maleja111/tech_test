@@ -1,0 +1,19 @@
+{
+  "name": "18-jul",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "maleja",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "^2.0.0",
+    "sqlite3": "^5.1.6"
+  }
+}
